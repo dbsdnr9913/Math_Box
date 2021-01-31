@@ -4,3 +4,4 @@
 - add, subtract 
 
 > const input = 3;
+> const output = 2;
